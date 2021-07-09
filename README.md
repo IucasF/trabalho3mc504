@@ -1,4 +1,4 @@
-# MC504 Projeto 03 - Animação multithread ouEstudo de tópico avançado sobre sincronização
+# MC504 Projeto 03 - Animação multithread ou Estudo de tópico avançado sobre sincronização
 
 ## Grupo 
 * `Fernando de Saes Madeira Vallar RA: 171509`
